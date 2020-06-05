@@ -12,6 +12,7 @@ body {
   position: relative;
 }
 
+
 .field-name,
 .field-email,
 .field-password,
@@ -79,3 +80,4 @@ div.active {
     transform: translate(-50%, -50%) rotate(0deg);
   }
 }
+
